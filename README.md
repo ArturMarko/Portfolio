@@ -5,7 +5,7 @@ My goal is to develop my knowledge and technical skills in manual and automatic 
 On this site, I would like to share my experience gained through personal study and research.
 
 ## Tech Stack
-* Languages (Test Automation): Python, Java
+* Languages (Automated Testing): Python, Java
 * Testing: Selenium Web Driver, TestNG, PyTest
 * Other tools: JIRA, TestLink, Maven
 
