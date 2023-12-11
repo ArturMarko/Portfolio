@@ -1,4 +1,4 @@
-# In this folder i will include examples of:
+# In this folder you can find my examples of:
 * Test scenarios
 * Test cases
 * Bug reports
