@@ -6,6 +6,6 @@ On this site, I would like to share my experience gained through personal study 
 
 ## Tech Stack
 * Languages (Automated Testing): Python, Java
-* Testing: Selenium Web Driver, TestNG, PyTest
+* Testing: Selenium Web Driver, TestNG
 * Other tools: JIRA, TestLink, Maven
 
